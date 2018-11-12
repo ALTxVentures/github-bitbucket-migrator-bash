@@ -1,2 +1,2 @@
 # git-repo-migrator-bash
-Allow git repos to be migrated between GitHub and Bitbucket.
+Allow git repos to be batch migrated between GitHub and Bitbucket.
